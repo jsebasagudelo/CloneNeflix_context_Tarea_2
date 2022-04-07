@@ -23,7 +23,7 @@ Render Props, Provider, Style Component
 ## Arquitectura
 Por estados 
 
-https://api.themoviedb.org/3/movie/top_rated?api_key=a3f405c037b3877af91a264045307fa3&language=en-US
+https://api.themoviedb.org/3/movie/top_rated?api_key=?&language=en-US
 
 
 
